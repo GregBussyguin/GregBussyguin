@@ -2,7 +2,7 @@
 
 Estudante do último ano de Engenharia Eletrônica na Universidade Tecnológica Federal do Paraná (UTFPR), com atuação prática que integra circuitos de hardware, desenvolvimento de firmware e software mobile.
 
-Experiência em pesquisa e desenvolvimento de sistemas embarcados e bancadas de teste automatizadas (LACTEC), desenvolvimento de software mobile em Flutter e arquitetura limpa (Copel), monitoramento de telemetria e análise de sistemas (Renault) e instrumentação biomédica (PETEE UTFPR).
+Experiência em pesquisa e desenvolvimento de sistemas embarcados e bancadas de teste automatizadas (LACTEC), desenvolvimento de software mobile em Flutter e arquitetura limpa (Copel), BI e análise de sistemas (Renault) e instrumentação biomédica (PETEE UTFPR).
 
 ---
 
